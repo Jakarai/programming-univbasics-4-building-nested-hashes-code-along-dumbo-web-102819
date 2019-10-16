@@ -21,7 +21,8 @@ def fourth_challenge
       ]
    }
 }
-
+  epic_tragedy[:hero][3] = "dead"
+  epic_tragedy[:heroine][3] = "dead"
   
 
 end
